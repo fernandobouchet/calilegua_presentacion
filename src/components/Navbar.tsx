@@ -3,7 +3,7 @@ import { ThemeToggle } from "./ThemeToggle";
 
 const Navbar = () => {
   return (
-    <header className="flex">
+    <header className="flex h-8">
       <nav
         aria-label="Global"
         className="flex justify-center items-center w-full"
